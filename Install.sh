@@ -27,7 +27,7 @@ sudo apt-get install code # or code-insiders
 
 echo "########### installing additional packages"
 # Install your preferred packages
-#PACKAGES=(
+PACKAGES=(
 #  "vim"
 #  "git"
 #  "curl"
@@ -39,12 +39,12 @@ echo "########### installing additional packages"
 #  "evil-winrm"
 #  "netcat-openbsd"
 #  "BloodHound"
-#  "seclists"
+ "seclists"
 #  "ftp"
   # Add more packages as needed
-#)
+)
 
-#sudo apt install -y "${PACKAGES[@]}"
+sudo apt install -y "${PACKAGES[@]}"
 
 echo "########### installing Extra tools"
 echo "########### installing ssh-audit"
