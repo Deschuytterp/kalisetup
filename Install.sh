@@ -40,6 +40,7 @@ PACKAGES=(
 #  "netcat-openbsd"
 #  "BloodHound"
  "seclists"
+ "gobuster"
 #  "ftp"
   # Add more packages as needed
 )
