@@ -43,6 +43,7 @@ PACKAGES=(
  "gobuster"
  "jq"
  "perl"
+ "python3-scrapy"
 #  "ftp"
   # Add more packages as needed
 )
