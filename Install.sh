@@ -42,6 +42,7 @@ PACKAGES=(
  "seclists"
  "gobuster"
  "jq"
+ "perl"
 #  "ftp"
   # Add more packages as needed
 )
