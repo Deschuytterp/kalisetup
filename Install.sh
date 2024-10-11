@@ -41,6 +41,7 @@ PACKAGES=(
 #  "BloodHound"
  "seclists"
  "gobuster"
+ "jq"
 #  "ftp"
   # Add more packages as needed
 )
