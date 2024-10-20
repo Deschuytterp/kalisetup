@@ -44,6 +44,7 @@ PACKAGES=(
  "jq"
  "perl"
  "python3-scrapy"
+ "nishang"
 #  "ftp"
   # Add more packages as needed
 )
