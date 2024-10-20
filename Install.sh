@@ -98,3 +98,4 @@ echo "#############  updating database for locate"
 
 
 echo "Setup complete!"
+echo "if needed, check for openvpn: client.ovpn to /etc/openvpn/client.conf and rename your openvpn file"
