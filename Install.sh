@@ -45,6 +45,7 @@ PACKAGES=(
  "perl"
  "python3-scrapy"
  "nishang"
+ "xfreerdp"
 #  "ftp"
   # Add more packages as needed
 )
